@@ -1,0 +1,12 @@
+@import '../index.css';
+
+.foraging-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    background-color: var(--darker);
+    color: var(--lighter);
+    height: 100vh;
+}
+

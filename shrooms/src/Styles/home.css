@@ -1,0 +1,15 @@
+@import '../index.css';
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    background-color: var(--darker);
+    color: var(--lighter);
+}
+
+.home-gif {
+    height: 40vh;
+    width: 40vh;
+}

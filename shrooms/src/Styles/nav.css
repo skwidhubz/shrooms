@@ -1,0 +1,12 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-maincontainer {
+    background-color: var(--light);
+}
+
+
+.nav-species-item {
+    background-color: var(--neutral);
+}
